@@ -1,0 +1,164 @@
+{
+  "assets": [
+    {
+      "productTypeName": "Application",
+      "productTypeId": 8,
+      "pricingParam": "STDQ",
+      "adamIdStr": "284882215",
+      "isIrrevocable": false,
+      "deviceAssignable": true
+    },
+    {
+      "productTypeName": "Application",
+      "productTypeId": 8,
+      "pricingParam": "STDQ",
+      "adamIdStr": "297606951",
+      "isIrrevocable": false,
+      "deviceAssignable": true
+    },
+    {
+      "productTypeName": "Application",
+      "productTypeId": 8,
+      "pricingParam": "STDQ",
+      "adamIdStr": "310633997",
+      "isIrrevocable": false,
+      "deviceAssignable": true
+    },
+    {
+      "productTypeName": "Application",
+      "productTypeId": 8,
+      "pricingParam": "STDQ",
+      "adamIdStr": "319740707",
+      "isIrrevocable": false,
+      "deviceAssignable": true
+    },
+    {
+      "productTypeName": "Application",
+      "productTypeId": 8,
+      "pricingParam": "STDQ",
+      "adamIdStr": "332184886",
+      "isIrrevocable": false,
+      "deviceAssignable": true
+    },
+    {
+      "productTypeName": "Application",
+      "productTypeId": 8,
+      "pricingParam": "STDQ",
+      "adamIdStr": "333903271",
+      "isIrrevocable": false,
+      "deviceAssignable": true
+    },
+    {
+      "productTypeName": "Application",
+      "productTypeId": 8,
+      "pricingParam": "STDQ",
+      "adamIdStr": "363590051",
+      "isIrrevocable": false,
+      "deviceAssignable": true
+    },
+    {
+      "productTypeName": "Application",
+      "productTypeId": 8,
+      "pricingParam": "STDQ",
+      "adamIdStr": "367623543",
+      "isIrrevocable": false,
+      "deviceAssignable": true
+    },
+    {
+      "productTypeName": "Application",
+      "productTypeId": 8,
+      "pricingParam": "STDQ",
+      "adamIdStr": "454619991",
+      "isIrrevocable": false,
+      "deviceAssignable": true
+    },
+    {
+      "productTypeName": "Application",
+      "productTypeId": 8,
+      "pricingParam": "STDQ",
+      "adamIdStr": "469960709",
+      "isIrrevocable": false,
+      "deviceAssignable": true
+    },
+    {
+      "productTypeName": "Application",
+      "productTypeId": 8,
+      "pricingParam": "STDQ",
+      "adamIdStr": "512939461",
+      "isIrrevocable": false,
+      "deviceAssignable": true
+    },
+    {
+      "productTypeName": "Application",
+      "productTypeId": 8,
+      "pricingParam": "STDQ",
+      "adamIdStr": "543186831",
+      "isIrrevocable": false,
+      "deviceAssignable": true
+    },
+    {
+      "productTypeName": "Application",
+      "productTypeId": 8,
+      "pricingParam": "STDQ",
+      "adamIdStr": "575729298",
+      "isIrrevocable": false,
+      "deviceAssignable": true
+    },
+    {
+      "productTypeName": "Application",
+      "productTypeId": 8,
+      "pricingParam": "STDQ",
+      "adamIdStr": "582808768",
+      "isIrrevocable": false,
+      "deviceAssignable": true
+    },
+    {
+      "productTypeName": "Application",
+      "productTypeId": 8,
+      "pricingParam": "STDQ",
+      "adamIdStr": "724785934",
+      "isIrrevocable": false,
+      "deviceAssignable": true
+    },
+    {
+      "productTypeName": "Application",
+      "productTypeId": 8,
+      "pricingParam": "STDQ",
+      "adamIdStr": "889864561",
+      "isIrrevocable": false,
+      "deviceAssignable": true
+    },
+    {
+      "productTypeName": "Application",
+      "productTypeId": 8,
+      "pricingParam": "STDQ",
+      "adamIdStr": "905852173",
+      "isIrrevocable": false,
+      "deviceAssignable": true
+    },
+    {
+      "productTypeName": "Application",
+      "productTypeId": 8,
+      "pricingParam": "STDQ",
+      "adamIdStr": "1047008273",
+      "isIrrevocable": false,
+      "deviceAssignable": true
+    },
+    {
+      "productTypeName": "Application",
+      "productTypeId": 8,
+      "pricingParam": "STDQ",
+      "adamIdStr": "1094591345",
+      "isIrrevocable": false,
+      "deviceAssignable": true
+    },
+    {
+      "productTypeName": "Application",
+      "productTypeId": 8,
+      "pricingParam": "STDQ",
+      "adamIdStr": "1321963611",
+      "isIrrevocable": false,
+      "deviceAssignable": true
+    }
+  ]
+}
